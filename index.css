@@ -1,0 +1,27 @@
+.name {
+	font-family:"Comic Sans MS";
+	font-weight:bold;
+	color:purple;
+}
+
+#container {
+	position:relative;
+	width:100%;
+}
+
+#headContainer {
+	margin:auto;
+	width:800px;
+}
+
+#byran {
+	float:left
+}
+
+.rounded {
+	border-radius:10px;
+}
+#header {
+	float:left;
+	background-color:green;
+}
